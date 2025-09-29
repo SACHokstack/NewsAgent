@@ -48,7 +48,7 @@ ConflictCast/
 - Python 3.8+
 - Flask
 - OpenCV
-- MistralAI Python SDK
+- 
 - Zyphra Voice API access
 
 ### Installation
