@@ -55,7 +55,7 @@ ConflictCast/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Rick-smasho/OCR.git
+   git clone https://github.com/SACHokstack/NewsAgent.git
    cd OCR
    ```
 
@@ -66,7 +66,7 @@ ConflictCast/
 
 3. Set up environment variables:
    ```
-   export MISTRAL_API_KEY="your_mistral_api_key"
+   export LANDINGAI_API_KEY="your_landingai_api_key"
    export GROQ_API_KEY="your_groq_api_key"
    export ZYPHRA_API_KEY="your_zyphra_api_key"
    ```
