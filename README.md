@@ -15,7 +15,7 @@ ConflictCast is an innovative application that transforms static newspaper artic
 
 ## 🔑 Key Features
 
-- **Image-to-Script Pipeline**: Upload newspaper images to extract text using Mistral OCR
+- **Image-to-Script Pipeline**: Upload newspaper images to extract text using landingai OCR
 - **Intelligent Content Analysis**: Automatically extracts headlines, locations, and critical information
 - **War Correspondent Style**: Transforms formal news into dramatic frontline reporting
 - **Professional Voice Synthesis**: Converts scripts into broadcast-ready audio with emotional inflection
@@ -24,8 +24,8 @@ ConflictCast is an innovative application that transforms static newspaper artic
 ## 🛠️ Technology Stack
 
 - **Backend**: Flask with Python
-- **OCR**: MistralAI OCR for text extraction
-- **NLP**: Custom sentence ranking & MistralAI/Groq for structured data extraction
+- **OCR**: landingaiAI OCR for text extraction
+- **NLP**: Custom sentence ranking & landingai/Groq for structured data extraction
 - **Voice Synthesis**: Zyphra API for realistic news reporter voices
 - **Frontend**: HTML/JS/CSS (not included in the repository)
 
@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- MistralAI for OCR technology
+- landingai for OCR technology
 - Groq for NLP processing capabilities
 - Zyphra for voice synthesis technology
 - The open-source community for various libraries and tools
